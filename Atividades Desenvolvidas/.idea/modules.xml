@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Atividades Desenvolvidas/Atividades Desenvolvidas.iml" filepath="$PROJECT_DIR$/../../Atividades Desenvolvidas/Atividades Desenvolvidas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/corridaSelvaV1/corridaSelvaV1.iml" filepath="$PROJECT_DIR$/corridaSelvaV1/corridaSelvaV1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/corridaSelvaV2/corridaSelvaV2.iml" filepath="$PROJECT_DIR$/corridaSelvaV2/corridaSelvaV2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dakar/dakar.iml" filepath="$PROJECT_DIR$/dakar/dakar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encapsulamento/encapsulamento.iml" filepath="$PROJECT_DIR$/encapsulamento/encapsulamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/excecoes/excecoes.iml" filepath="$PROJECT_DIR$/excecoes/excecoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guardaRoupas/guardaRoupas.iml" filepath="$PROJECT_DIR$/guardaRoupas/guardaRoupas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imc-Pessoa/imc-Pessoa.iml" filepath="$PROJECT_DIR$/imc-Pessoa/imc-Pessoa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaceEClasseAbstarta/interfaceEClasseAbstarta.iml" filepath="$PROJECT_DIR$/interfaceEClasseAbstarta/interfaceEClasseAbstarta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo5/modulo5.iml" filepath="$PROJECT_DIR$/modulo5/modulo5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tarefasIniciais/tarefasIniciais.iml" filepath="$PROJECT_DIR$/tarefasIniciais/tarefasIniciais.iml" />
+    </modules>
+  </component>
+</project>
