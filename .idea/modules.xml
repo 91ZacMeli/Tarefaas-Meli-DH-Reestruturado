@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ClassAbstractsEInterface/ClassAbstractsEInterface.iml" filepath="$PROJECT_DIR$/ClassAbstractsEInterface/ClassAbstractsEInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classAbstractsEInterface/ClassAbstractsEInterface.iml" filepath="$PROJECT_DIR$/classAbstractsEInterface/ClassAbstractsEInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/Atividades Desenvolvidas/ClassAbstratasEInterfaces/ClassAbstratasEInterfaces.iml" filepath="$PROJECT_DIR$/Atividades Desenvolvidas/ClassAbstratasEInterfaces/ClassAbstratasEInterfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/Atividades Desenvolvidas/IntercfacesEClassAbstratas/IntercfacesEClassAbstratas.iml" filepath="$PROJECT_DIR$/Atividades Desenvolvidas/IntercfacesEClassAbstratas/IntercfacesEClassAbstratas.iml" />
       <module fileurl="file://$PROJECT_DIR$/Atividades Desenvolvidas/LambdasEStreams/LambdasEStreams.iml" filepath="$PROJECT_DIR$/Atividades Desenvolvidas/LambdasEStreams/LambdasEStreams.iml" />
-      <module fileurl="file://$PROJECT_DIR$/PessoasUniversidade/PessoasUniversidade.iml" filepath="$PROJECT_DIR$/PessoasUniversidade/PessoasUniversidade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pessoasUniversidade/PessoasUniversidade.iml" filepath="$PROJECT_DIR$/pessoasUniversidade/PessoasUniversidade.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Tarefaas-Meli-DH-Reestruturado.iml" filepath="$PROJECT_DIR$/.idea/Tarefaas-Meli-DH-Reestruturado.iml" />
       <module fileurl="file://$PROJECT_DIR$/Atividades Desenvolvidas/corridaSelvaV1/corridaSelvaV1.iml" filepath="$PROJECT_DIR$/Atividades Desenvolvidas/corridaSelvaV1/corridaSelvaV1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Atividades Desenvolvidas/corridaSelvaV2/corridaSelvaV2.iml" filepath="$PROJECT_DIR$/Atividades Desenvolvidas/corridaSelvaV2/corridaSelvaV2.iml" />
@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/encapsulamentoPOO/encapsulamentoPOO.iml" filepath="$PROJECT_DIR$/encapsulamentoPOO/encapsulamentoPOO.iml" />
       <module fileurl="file://$PROJECT_DIR$/Atividades Desenvolvidas/encapsulamentos/encapsulamentos.iml" filepath="$PROJECT_DIR$/Atividades Desenvolvidas/encapsulamentos/encapsulamentos.iml" />
       <module fileurl="file://$PROJECT_DIR$/Atividades Desenvolvidas/excecoes/excecoes.iml" filepath="$PROJECT_DIR$/Atividades Desenvolvidas/excecoes/excecoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gerenciarSalario/gerenciarSalario.iml" filepath="$PROJECT_DIR$/gerenciarSalario/gerenciarSalario.iml" />
       <module fileurl="file://$PROJECT_DIR$/Atividades Desenvolvidas/guardaRoupas/guardaRoupas.iml" filepath="$PROJECT_DIR$/Atividades Desenvolvidas/guardaRoupas/guardaRoupas.iml" />
       <module fileurl="file://$PROJECT_DIR$/Atividades Desenvolvidas/imc-Pessoa/imc-Pessoa.iml" filepath="$PROJECT_DIR$/Atividades Desenvolvidas/imc-Pessoa/imc-Pessoa.iml" />
       <module fileurl="file://$PROJECT_DIR$/impressoraDocumentos/impressoraDocumentos.iml" filepath="$PROJECT_DIR$/impressoraDocumentos/impressoraDocumentos.iml" />
