@@ -1,0 +1,5 @@
+Conteudo arquivo 1 participante B >> participante-B-1.txt
+cat particip0ante-B-.txt
+echo Conteudo arquivo 2 participante B
+teste segundo arquivo A
+arri que medo de da merda, la vai

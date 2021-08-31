@@ -3,9 +3,12 @@ import java.util.List;
 public class Veiculo {
     private String modelo;
     private String marca;
-    private int preco;
+    private double preco;
 
-    public Veiculo(String modelo, String marca,int preco) {
+    public Veiculo() {
+    }
+
+    public Veiculo(String modelo, String marca, double preco) {
         this.modelo = modelo;
         this.marca = marca;
         this.preco = preco;
@@ -33,5 +36,14 @@ public class Veiculo {
 
     public void setPreco(int preco) {
         this.preco = preco;
+    }
+
+    @Override
+    public String toString() {
+        return "Veiculo{" +
+                "modelo='" + modelo + '\'' +
+                ", marca='" + marca + '\'' +
+                ", preco=" + preco +
+                '}';
     }
 }

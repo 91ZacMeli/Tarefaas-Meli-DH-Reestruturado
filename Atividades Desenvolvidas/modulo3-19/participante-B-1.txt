@@ -1,0 +1,4 @@
+Conteudo arquivo 1 participante B >> participante-B-1.txt
+cat particip0ante-B-.txt
+echo Conteudo arquivo 1 participante B
+teste primeiro arquivo A

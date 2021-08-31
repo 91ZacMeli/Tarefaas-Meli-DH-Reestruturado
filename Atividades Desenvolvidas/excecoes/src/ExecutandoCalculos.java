@@ -9,7 +9,7 @@ public class ExecutandoCalculos {
 
         System.out.println(calcular.ehmenor(45,87));
 
-        System.out.println(calcular.potenciacao(2,3));
+        System.out.println(calcular.potenciacao(17,3));
 
         System.out.println(calcular.radiacao(25));
 
