@@ -1,4 +1,4 @@
-package exemplo4.util;
+package exemplo5.excecoes.util;
 
 import exemplo4.excecoes.FuncionarioExistenteException;
 import exemplo4.excecoes.PersistenciaException;

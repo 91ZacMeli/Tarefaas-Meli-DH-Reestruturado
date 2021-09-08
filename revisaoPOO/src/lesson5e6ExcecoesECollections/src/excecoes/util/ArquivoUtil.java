@@ -1,8 +1,8 @@
-package exemplo4.util;
+package excecoes.util;
 
-import exemplo4.excecoes.FuncionarioExistenteException;
-import exemplo4.excecoes.PersistenciaException;
-import exemplo4.model.Funcionario;
+import excecoes.ClienteExistenteException;
+import excecoes.PersistenciaException;
+import excecoes.model.Funcionario;
 
 import java.io.*;
 
@@ -30,14 +30,14 @@ public class ArquivoUtil {
             //throw new IOException("Erro no momento de persistir o registro no arquivo");
             //neste caso exige o throws na assinatura do metodo
             throw new PersistenciaException("Erro no momento de persistir o registro no arquivo");
-        } catch (FuncionarioExistenteException e) {
-            throw new FuncionarioExistenteException(e);
+        } catch (ClienteExistenteException e) {
+            throw new ClienteExistenteException(e);
         }
     }
 
     private void funcionarioExistente(Funcionario funcionario) {
         if (false) {
-            throw new FuncionarioExistenteException("Funcionario já cadastrado");
+            throw new ClienteExistenteException("Funcionario já cadastrado");
         }
     }
 

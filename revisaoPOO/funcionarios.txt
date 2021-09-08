@@ -11,3 +11,15 @@ filipe         m        R$ 10.000,20
 thiago         m        R$ 13.000,00      R$ 650,00
 ana carolina         f        R$ 25.000,00      R$ 5.000,00     R$ 25.000,00
 nobre         m        R$ 20.000,00
+mauri         m        R$ 10.000,00
+mauri         m        R$ 10.000,00
+mauri         m        R$ 10.000,00
+mauri         m        R$ 10.000,00
+mauri         m        R$ 10.000,00
+mauri         m        R$ 10.000,00
+mauri         m        R$ 10.000,00
+mauri         m        R$ 10.000,00
+mauri         m        R$ 10.000,00
+mauri         m        R$ 10.000,00
+mauri         m        R$ 10.000,00
+mauri         m        R$ 10.000,00
